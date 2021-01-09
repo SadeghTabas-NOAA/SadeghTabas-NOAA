@@ -12,7 +12,7 @@ Most of my research is dedicated towards solving problems in Water Recources (ma
 - Personal Blog: [http://sadeghs.people.clemson.edu/)
 
 <!--
-**kratzert/kratzert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sadeghitabas/sadeghitabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
