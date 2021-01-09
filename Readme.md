@@ -4,7 +4,7 @@ I'm Sadegh Sadeghi Tabas, PhD candidate at the Clemson University, USA, under th
 
 ## :nerd_face: Research :thinking:
 
-Most of my research is dedicated towards solving problems in Water Recources (mainly hydrology) with Artificial Intelligence.
+Most of my research is dedicated towards solving problems in Water Resources (mainly hydrology) with Artificial Intelligence.
 
 ## Links
 - Twitter: [@sadeghitabas](https://twitter.com/SadeghiTabas)
