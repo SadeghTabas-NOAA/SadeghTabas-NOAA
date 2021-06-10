@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sadegh Sadeghi Tabas, PhD candidate at the Clemson University, USA, under the supervision of Dr. Vidya Samadi.
+I'm Sadegh Sadeghi Tabas, PhD candidate at the Clemson University, USA.
 
 ## :nerd_face: Research :thinking:
 
