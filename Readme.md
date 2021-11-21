@@ -4,7 +4,6 @@ I'm a Data Scientist currently working at the Clemson University, USA.
 
 ## :nerd_face: Research :thinking:
 
-% Most of my research is dedicated towards solving problems in Water Resources (mainly hydrology) with Artificial Intelligence.
 The broad goal of my research is to develop effective statistical and AI-based predictive models for adiverse range of industrial applications and deliver insights and action-oriented solutions to complexproblems leveraging quantitative and qualitative analysis techniques.
 
 ## Links
