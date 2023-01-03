@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Scientist currently working at the Clemson University, USA.
+I'm a Data Scientist currently working as a Code Manager at NOAA, College Park, MD.
 
 ## :nerd_face: Research :thinking:
 
