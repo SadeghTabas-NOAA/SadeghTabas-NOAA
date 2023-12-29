@@ -9,7 +9,6 @@ The broad goal of my research is to develop effective statistical and AI-based p
 ## Links
 - Twitter: [@sadeghitabas](https://twitter.com/SadeghiTabas)
 - GScholar: [Sadegh Sadeghi Tabas](https://scholar.google.com/citations?hl=en&user=HYDwG3oAAAAJ)
-- Personal Blog: [http://sadeghs.people.clemson.edu/)
 
 <!--
 **sadeghitabas/sadeghitabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
