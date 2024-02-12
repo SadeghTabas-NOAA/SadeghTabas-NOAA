@@ -7,7 +7,7 @@ I'm a Machine Learning Scientist currently working at NOAA, College Park, MD.
 The broad goal of my research is to develop effective statistical and AI-based predictive models for an adiverse range of industrial applications and deliver insights and action-oriented solutions to complex problems leveraging quantitative and qualitative analysis techniques.
 
 ## Links
-- Twitter: [@sadeghitabas](https://twitter.com/SadeghiTabas)
+- X: [@sadeghitabas](https://twitter.com/SadeghiTabas)
 - GScholar: [Sadegh Sadeghi Tabas](https://scholar.google.com/citations?hl=en&user=HYDwG3oAAAAJ)
 
 <!--
