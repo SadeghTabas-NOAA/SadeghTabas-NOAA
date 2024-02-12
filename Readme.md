@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Research Scientist currently working as a Machine Learning Scientist at NOAA, College Park, MD.
+I'm a Machine Learning Scientist currently working at NOAA, College Park, MD.
 
 ## :nerd_face: Research :thinking:
 
